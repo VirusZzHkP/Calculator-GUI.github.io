@@ -1,4 +1,5 @@
-# Calculator-GUI.github.io
+# Calculator-GUI
+
 ![VirusZz Calculator First look](https://user-images.githubusercontent.com/76624193/147265386-19d676d9-09ff-4f8a-beb2-d999df1c3ba3.png)
 
 
